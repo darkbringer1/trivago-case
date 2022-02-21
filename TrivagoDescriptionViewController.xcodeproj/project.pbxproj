@@ -8,6 +8,7 @@
 
 /* Begin PBXBuildFile section */
 		F0D05D8E27C3735B000B9C01 /* ViewComponent.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0D05D8D27C3735B000B9C01 /* ViewComponent.swift */; };
+		F0D05D9227C37977000B9C01 /* Prime.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0D05D9127C37977000B9C01 /* Prime.swift */; };
 		F0F4888127C234E30078106D /* AppDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F4888027C234E30078106D /* AppDelegate.swift */; };
 		F0F4888327C234E30078106D /* SceneDelegate.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F4888227C234E30078106D /* SceneDelegate.swift */; };
 		F0F4888527C234E30078106D /* DescriptionViewController.swift in Sources */ = {isa = PBXBuildFile; fileRef = F0F4888427C234E30078106D /* DescriptionViewController.swift */; };
@@ -17,6 +18,7 @@
 
 /* Begin PBXFileReference section */
 		F0D05D8D27C3735B000B9C01 /* ViewComponent.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = ViewComponent.swift; sourceTree = "<group>"; };
+		F0D05D9127C37977000B9C01 /* Prime.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = Prime.swift; sourceTree = "<group>"; };
 		F0F4887D27C234E30078106D /* TrivagoDescriptionViewController.app */ = {isa = PBXFileReference; explicitFileType = wrapper.application; includeInIndex = 0; path = TrivagoDescriptionViewController.app; sourceTree = BUILT_PRODUCTS_DIR; };
 		F0F4888027C234E30078106D /* AppDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = AppDelegate.swift; sourceTree = "<group>"; };
 		F0F4888227C234E30078106D /* SceneDelegate.swift */ = {isa = PBXFileReference; lastKnownFileType = sourcecode.swift; path = SceneDelegate.swift; sourceTree = "<group>"; };
@@ -59,6 +61,7 @@
 				F0F4888027C234E30078106D /* AppDelegate.swift */,
 				F0F4888227C234E30078106D /* SceneDelegate.swift */,
 				F0F4888427C234E30078106D /* DescriptionViewController.swift */,
+				F0D05D9127C37977000B9C01 /* Prime.swift */,
 				F0D05D8D27C3735B000B9C01 /* ViewComponent.swift */,
 				F0F4888927C234E50078106D /* Assets.xcassets */,
 				F0F4888B27C234E50078106D /* LaunchScreen.storyboard */,
@@ -139,6 +142,7 @@
 			files = (
 				F0D05D8E27C3735B000B9C01 /* ViewComponent.swift in Sources */,
 				F0F4888527C234E30078106D /* DescriptionViewController.swift in Sources */,
+				F0D05D9227C37977000B9C01 /* Prime.swift in Sources */,
 				F0F4888127C234E30078106D /* AppDelegate.swift in Sources */,
 				F0F4888327C234E30078106D /* SceneDelegate.swift in Sources */,
 			);
